@@ -1,0 +1,32 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [USB_DockingSTN_R3.PrjPcb]
+   Generated File[PCB_USB_DockingSTN.GTO]
+   Generated File[PCB_USB_DockingSTN.GTP]
+   Generated File[PCB_USB_DockingSTN.GTS]
+   Generated File[PCB_USB_DockingSTN.GTL]
+   Generated File[PCB_USB_DockingSTN.GBL]
+   Generated File[PCB_USB_DockingSTN.GBS]
+   Generated File[PCB_USB_DockingSTN.GBP]
+   Generated File[PCB_USB_DockingSTN.GBO]
+   Generated File[PCB_USB_DockingSTN.GM1]
+   Generated File[PCB_USB_DockingSTN.GM5]
+   Generated File[PCB_USB_DockingSTN.GM7]
+   Generated File[PCB_USB_DockingSTN.GM13]
+   Generated File[PCB_USB_DockingSTN.GM15]
+   Generated File[PCB_USB_DockingSTN.GM16]
+   Generated File[PCB_USB_DockingSTN.GKO]
+   Generated File[PCB_USB_DockingSTN.GPT]
+   Generated File[PCB_USB_DockingSTN.GPB]
+   Generated File[PCB_USB_DockingSTN.1]
+   Generated File[PCB_USB_DockingSTN.GML]
+   Generated File[PCB_USB_DockingSTN.GG1]
+   Generated File[PCB_USB_DockingSTN.RUL]
+   Generated File[PCB_USB_DockingSTN.EXTREP]
+   Generated File[PCB_USB_DockingSTN.REP]
+
+
+Files Generated   : 23
+Documents Printed : 0
+
+Finished Output Generation At 15:18:19 On 18/09/2020
